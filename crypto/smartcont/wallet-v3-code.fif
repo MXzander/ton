@@ -1,4 +1,4 @@
-#!/usr/bin/fift -s
+crypto/smartcont/wallet-v3-code.fif#!/usr/bin/fift -s
 "Asm.fif" include
 
 // New advanced wallet code adapted from `auto/wallet3-code.fif`
